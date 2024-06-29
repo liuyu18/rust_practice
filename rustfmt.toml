@@ -1,0 +1,25 @@
+# Maximum width of each line.
+max_width = 100
+
+# Do not use small heuristics (default is 'Max').
+use_small_heuristics = "Off"
+
+# Spaces around operators and punctuations.
+space_after_colon = true
+space_after_comma = true
+space_after_semicolon = true
+
+# Add trailing commas where possible.
+trailing_comma = "Always"
+
+# Control the ordering of imports.
+reorder_imports = true
+
+# Format code inside attributes.
+format_code_in_doc_comments = true
+
+# Place function parameters on separate lines.
+fn_params_layout = "Vertical"
+
+# Remove unused imports.
+remove_unused_imports = true
